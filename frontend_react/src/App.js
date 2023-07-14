@@ -7,6 +7,8 @@ import './App.scss';
 const App = () => (
   <div className="app">
     <Navbar />
+    <Header />
+    <About />
   </div>
 );
 
