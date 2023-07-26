@@ -60,7 +60,7 @@ const Skills = () => {
               <motion.div
                 className='app__skills-exp-works'
               >
-                {experience?.works?.map((work) => (
+                {experience.works.map((work) => (
                   <>
                     <motion.div
                       whileInView={{ opacity: [0,1] }}

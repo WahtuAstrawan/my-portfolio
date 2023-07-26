@@ -11,7 +11,6 @@ const AppWrap = (Components, idName, classNames) => function HOC() {
 
             <div className='copyright'>
                 <p className='p-text'>@2023 Wahtu Astrawan</p>
-                <p className='p-text'>All rights reserved</p>
             </div>
         </div>
 
